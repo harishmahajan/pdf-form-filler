@@ -1,0 +1,6 @@
+node_modules/
+imports
+settings.json
+settings-dev.json
+.deploy
+.idea

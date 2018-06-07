@@ -1,0 +1,4 @@
+============== known issues ============
+
+1) checkbox fields for every pdf is different, for that you need to find out the proper index number for that checkbox.
+
